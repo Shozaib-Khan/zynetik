@@ -1,8 +1,8 @@
-# Zynetik Weather App
+# Zynetic Weather App
 
 A modern, responsive weather application built with React, TypeScript, and Tailwind CSS. This app allows users to search for weather information in any city and displays current conditions along with a 5-day forecast.
 
-![Zynetik Weather App Screenshot](image.png)
+![Zynetic Weather App Screenshot](image.png)
 
 ## Features
 
@@ -34,8 +34,8 @@ A modern, responsive weather application built with React, TypeScript, and Tailw
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zynetik.git
-   cd zynetik
+   git clone https://github.com/your-username/Zynetic.git
+   cd Zynetic
    ```
 
 2. Install dependencies:
@@ -73,7 +73,7 @@ The build files will be located in the `dist` directory.
 ## Project Structure
 
 ```
-zynetik/
+Zynetic/
 ├── src/
 │   ├── components/           # UI components
 │   ├── context/              # React context for state management
